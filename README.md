@@ -11,7 +11,7 @@ This project is built using only **pointers** and memory is managed on the **hea
 
 - 🔐 **Create Account**  
   Users can register with a unique username and password.  
-  ➤ If a username is already in use, account creation is denied with a clear warning.
+  ➤ If a username is already in use, account creation is denied with a clear warning(⚠️has bug currently will be fixed after planned projects).
 
 - 🔑 **Sign In**  
   Login functionality with secure credential verification.  
@@ -46,10 +46,21 @@ This project is built using only **pointers** and memory is managed on the **hea
 
 - **C++**
 - **CMake**
-✅ Cross-platform (tested on Linux)
--
-
+- ✅ Cross-platform (tested on Linux)
 ---
+
+## Main Menu
+
+```
+ 1 :: for sign in:
+ 2 :: for create account 
+ 3 :: for forget password 
+ 4 :: for help
+ 5 :: for quit
+
+```
+
+## Craeate Account
 
 
 
