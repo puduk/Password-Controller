@@ -25,8 +25,10 @@ class data {
     ~data(){
       delete first_page_choice;
       delete help_choice;
+      delete user_rate;
       delete username;
       delete password;
+      delete user_phone_number;
     };
 };
 
