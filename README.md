@@ -38,7 +38,7 @@ This project is built using only **pointers** and memory is managed on the **hea
   All major data structures are created and managed dynamically on the heap.
 
 - ✔️ **No Memory Leaks**:  
-  All memory is carefully deallocated. Tools like `valgrind` report no leaks.
+  All memory is carefully deallocated. There is no memory leaks.
 
 ---
 
@@ -61,6 +61,44 @@ This project is built using only **pointers** and memory is managed on the **hea
 ```
 
 ## Craeate Account
+```
+Create username :: 
+puduk
+Create password :: 
+123123
+Account Successfully Created!
+
+```
+## Sign In
+```
+Username: puduk
+Password: 123123
+Welcome :: puduk
+```
+## Forget Password
+```
+Enter your username :: 
+puduk
+Your password is: 123123
+```
+## Help
+```
+1 :: for contact the AI 
+2 :: for Customer Service 
+3 :: for Communication Address
+3
+___ For Contact ___ 
+Company Address :: 90210 Beverly Hills, Santa Monica Blvd, Los Angeles, CA
+Email Address :: company00.mail.com
+Phone Number :: 202 - 222 - 220
+```
+## Quit
+```
+Thank you for using this program.
+Please dont forget to rate us (1-10)
+5
+Quiting... 
+```
 
 
 
