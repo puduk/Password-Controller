@@ -72,6 +72,8 @@ void create_account(data& d){
   enter_file << user_amount << ". " << "Username : " << *d.username << std::endl;
   enter_file << user_amount << ". " << "Password : " << *d.password << std::endl;
 
+  std::cout << "Account Successfully Created!" << std::endl;
+
 }
 
 
