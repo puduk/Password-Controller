@@ -98,6 +98,13 @@ Please dont forget to rate us (1-10)
 5
 Quiting... 
 ```
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute it with attribution.
+
 
 
 
